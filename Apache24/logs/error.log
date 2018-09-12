@@ -1,0 +1,758 @@
+[Fri Jun 29 00:35:07.944264 2018] [ssl:warn] [pid 12992:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:35:08.098369 2018] [ssl:warn] [pid 12992:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:35:08.099370 2018] [mpm_winnt:notice] [pid 12992:tid 572] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h configured -- resuming normal operations
+[Fri Jun 29 00:35:08.099370 2018] [mpm_winnt:notice] [pid 12992:tid 572] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 00:35:08.099370 2018] [core:notice] [pid 12992:tid 572] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 00:35:08.103372 2018] [mpm_winnt:notice] [pid 12992:tid 572] AH00418: Parent: Created child process 6860
+Apache server interrupted...
+018] [ssl:warn] [pid 6860:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:35:08.629722 2018] [ssl:warn] [pid 6860:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:35:08.630720 2018] [mpm_winnt:notice] [pid 6860:tid 592] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 00:43:39.027254 2018] [mpm_winnt:notice] [pid 12992:tid 572] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jun 29 00:43:41.029485 2018] [mpm_winnt:notice] [pid 6860:tid 592] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 00:43:41.067839 2018] [mpm_winnt:notice] [pid 12992:tid 572] AH00430: Parent: Child process 6860 exited successfully.
+[Fri Jun 29 00:43:42.913873 2018] [ssl:warn] [pid 7404:tid 160] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:43:43.004938 2018] [ssl:warn] [pid 7404:tid 160] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:43:43.005941 2018] [mpm_winnt:notice] [pid 7404:tid 160] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 00:43:43.005941 2018] [mpm_winnt:notice] [pid 7404:tid 160] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 00:43:43.005941 2018] [core:notice] [pid 7404:tid 160] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 00:43:43.009938 2018] [mpm_winnt:notice] [pid 7404:tid 160] AH00418: Parent: Created child process 228
+Apache server interrupted...
+018] [ssl:warn] [pid 228:tid 584] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:43:43.383187 2018] [ssl:warn] [pid 228:tid 584] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:43:43.433219 2018] [mpm_winnt:notice] [pid 228:tid 584] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 00:49:19.960161 2018] [mpm_winnt:notice] [pid 7404:tid 160] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 29 00:49:21.962493 2018] [mpm_winnt:notice] [pid 228:tid 584] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 00:49:22.017526 2018] [mpm_winnt:notice] [pid 7404:tid 160] AH00430: Parent: Child process 228 exited successfully.
+[Fri Jun 29 00:52:54.459384 2018] [ssl:warn] [pid 11044:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:52:54.554449 2018] [ssl:warn] [pid 11044:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:52:54.555450 2018] [mpm_winnt:notice] [pid 11044:tid 592] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 00:52:54.555450 2018] [mpm_winnt:notice] [pid 11044:tid 592] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 00:52:54.555450 2018] [core:notice] [pid 11044:tid 592] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 00:52:54.559453 2018] [mpm_winnt:notice] [pid 11044:tid 592] AH00418: Parent: Created child process 12720
+Apache server interrupted...
+018] [ssl:warn] [pid 12720:tid 620] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:52:54.988734 2018] [ssl:warn] [pid 12720:tid 620] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:52:55.040768 2018] [mpm_winnt:notice] [pid 12720:tid 620] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 00:53:09.566766 2018] [wsgi:error] [pid 12720:tid 1288] [client ::1:4125] mod_wsgi (pid=12720, process='', application='example.com|'): Failed to parse WSGI script file 'D:/tf_server/tf_server.wsgi'., referer: https://blog.csdn.net/mist99/article/details/80771289
+[Fri Jun 29 00:53:09.566766 2018] [wsgi:error] [pid 12720:tid 1288] [client ::1:4125] mod_wsgi (pid=12720): Exception occurred processing WSGI script 'D:/tf_server/tf_server.wsgi'., referer: https://blog.csdn.net/mist99/article/details/80771289
+[Fri Jun 29 00:53:09.566766 2018] [wsgi:error] [pid 12720:tid 1288] [client ::1:4125]   File "D:/tf_server/tf_server.wsgi", line 4\r, referer: https://blog.csdn.net/mist99/article/details/80771289
+[Fri Jun 29 00:53:09.566766 2018] [wsgi:error] [pid 12720:tid 1288] [client ::1:4125] SyntaxError: Non-UTF-8 code starting with '\\xbb' in file D:/tf_server/tf_server.wsgi on line 4, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details\r, referer: https://blog.csdn.net/mist99/article/details/80771289
+[Fri Jun 29 00:54:03.122027 2018] [mpm_winnt:notice] [pid 11044:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jun 29 00:54:05.124359 2018] [mpm_winnt:notice] [pid 12720:tid 620] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 00:54:05.188398 2018] [mpm_winnt:notice] [pid 11044:tid 592] AH00430: Parent: Child process 12720 exited successfully.
+[Fri Jun 29 00:54:06.301137 2018] [ssl:warn] [pid 11728:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:54:06.347169 2018] [ssl:warn] [pid 11728:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:54:06.348170 2018] [mpm_winnt:notice] [pid 11728:tid 592] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 00:54:06.348170 2018] [mpm_winnt:notice] [pid 11728:tid 592] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 00:54:06.348170 2018] [core:notice] [pid 11728:tid 592] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 00:54:06.349169 2018] [mpm_winnt:notice] [pid 11728:tid 592] AH00418: Parent: Created child process 13148
+Apache server interrupted...
+018] [ssl:warn] [pid 13148:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:54:06.798468 2018] [ssl:warn] [pid 13148:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:54:06.848501 2018] [mpm_winnt:notice] [pid 13148:tid 556] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 00:54:44.487403 2018] [wsgi:error] [pid 13148:tid 1320] [client ::1:4263] mod_wsgi (pid=13148, process='', application='example.com|'): Failed to parse WSGI script file 'D:/tf_server/tf_server.wsgi'., referer: https://blog.csdn.net/mist99/article/details/80771289
+[Fri Jun 29 00:54:44.487403 2018] [wsgi:error] [pid 13148:tid 1320] [client ::1:4263] mod_wsgi (pid=13148): Exception occurred processing WSGI script 'D:/tf_server/tf_server.wsgi'., referer: https://blog.csdn.net/mist99/article/details/80771289
+[Fri Jun 29 00:54:44.487403 2018] [wsgi:error] [pid 13148:tid 1320] [client ::1:4263]   File "D:/tf_server/tf_server.wsgi", line 4\r, referer: https://blog.csdn.net/mist99/article/details/80771289
+[Fri Jun 29 00:54:44.487403 2018] [wsgi:error] [pid 13148:tid 1320] [client ::1:4263] SyntaxError: Non-UTF-8 code starting with '\\xbb' in file D:/tf_server/tf_server.wsgi on line 4, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details\r, referer: https://blog.csdn.net/mist99/article/details/80771289
+[Fri Jun 29 00:56:18.338928 2018] [mpm_winnt:notice] [pid 11728:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jun 29 00:56:20.340260 2018] [mpm_winnt:notice] [pid 13148:tid 556] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 00:56:20.401297 2018] [mpm_winnt:notice] [pid 11728:tid 592] AH00430: Parent: Child process 13148 exited successfully.
+[Fri Jun 29 00:56:21.701163 2018] [ssl:warn] [pid 6696:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:56:21.889290 2018] [ssl:warn] [pid 6696:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:56:21.890290 2018] [mpm_winnt:notice] [pid 6696:tid 572] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 00:56:21.890290 2018] [mpm_winnt:notice] [pid 6696:tid 572] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 00:56:21.890290 2018] [core:notice] [pid 6696:tid 572] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 00:56:21.894294 2018] [mpm_winnt:notice] [pid 6696:tid 572] AH00418: Parent: Created child process 1848
+Apache server interrupted...
+018] [ssl:warn] [pid 1848:tid 600] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:56:22.334583 2018] [ssl:warn] [pid 1848:tid 600] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:56:22.385618 2018] [mpm_winnt:notice] [pid 1848:tid 600] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 00:58:03.122911 2018] [wsgi:error] [pid 1848:tid 1288] Using TensorFlow backend.\r
+[Fri Jun 29 00:59:13.309177 2018] [mpm_winnt:notice] [pid 6696:tid 572] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 1848:tid 600] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 00:59:15.567089 2018] [mpm_winnt:notice] [pid 6696:tid 572] AH00430: Parent: Child process 1848 exited successfully.
+[Fri Jun 29 00:59:16.853868 2018] [ssl:warn] [pid 11988:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:59:16.950231 2018] [ssl:warn] [pid 11988:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:59:16.951231 2018] [mpm_winnt:notice] [pid 11988:tid 592] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 00:59:16.951231 2018] [mpm_winnt:notice] [pid 11988:tid 592] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 00:59:16.951231 2018] [core:notice] [pid 11988:tid 592] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 00:59:16.952231 2018] [mpm_winnt:notice] [pid 11988:tid 592] AH00418: Parent: Created child process 5400
+Apache server interrupted...
+018] [ssl:warn] [pid 5400:tid 552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:59:17.344733 2018] [ssl:warn] [pid 5400:tid 552] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 00:59:17.391610 2018] [mpm_winnt:notice] [pid 5400:tid 552] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 00:59:32.381414 2018] [wsgi:error] [pid 5400:tid 1276] Using TensorFlow backend.\r
+[Fri Jun 29 00:59:54.439362 2018] [mpm_winnt:notice] [pid 11988:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jun 29 01:00:24.440285 2018] [mpm_winnt:notice] [pid 11988:tid 592] AH00431: Parent: Forcing termination of child process 5400
+[Fri Jun 29 01:02:03.705714 2018] [ssl:warn] [pid 12576:tid 544] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:02:06.178258 2018] [ssl:warn] [pid 12576:tid 544] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:02:06.178258 2018] [mpm_winnt:notice] [pid 12576:tid 544] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:02:06.178258 2018] [mpm_winnt:notice] [pid 12576:tid 544] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:02:06.178258 2018] [core:notice] [pid 12576:tid 544] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:02:06.178258 2018] [mpm_winnt:notice] [pid 12576:tid 544] AH00418: Parent: Created child process 9632
+Apache server interrupted...
+018] [ssl:warn] [pid 9632:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:02:06.615772 2018] [ssl:warn] [pid 9632:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:02:06.662651 2018] [mpm_winnt:notice] [pid 9632:tid 596] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:02:23.613793 2018] [wsgi:error] [pid 9632:tid 1280] Using TensorFlow backend.\r
+[Fri Jun 29 01:04:12.850737 2018] [mpm_winnt:notice] [pid 12576:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 9632:tid 596] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:04:15.120409 2018] [mpm_winnt:notice] [pid 12576:tid 544] AH00430: Parent: Child process 9632 exited successfully.
+Apache server interrupted...
+[Fri Jun 29 01:04:17.091208 2018] [ssl:warn] [pid 5392:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:04:17.169339 2018] [ssl:warn] [pid 5392:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:04:17.169339 2018] [mpm_winnt:notice] [pid 5392:tid 596] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:04:17.169339 2018] [mpm_winnt:notice] [pid 5392:tid 596] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:04:17.169339 2018] [core:notice] [pid 5392:tid 596] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:04:17.169339 2018] [mpm_winnt:notice] [pid 5392:tid 596] AH00418: Parent: Created child process 2564
+Apache server interrupted...
+018] [ssl:warn] [pid 2564:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:04:17.606866 2018] [ssl:warn] [pid 2564:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:04:17.669364 2018] [mpm_winnt:notice] [pid 2564:tid 556] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:04:42.301926 2018] [wsgi:error] [pid 2564:tid 1264] Using TensorFlow backend.\r
+[Fri Jun 29 01:05:01.075178 2018] [mpm_winnt:notice] [pid 5392:tid 596] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jun 29 01:05:03.090501 2018] [mpm_winnt:notice] [pid 2564:tid 556] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:05:03.320652 2018] [mpm_winnt:notice] [pid 5392:tid 596] AH00430: Parent: Child process 2564 exited successfully.
+[Fri Jun 29 01:05:07.193486 2018] [ssl:warn] [pid 9032:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:05:07.289616 2018] [ssl:warn] [pid 9032:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:05:07.290616 2018] [mpm_winnt:notice] [pid 9032:tid 564] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:05:07.290616 2018] [mpm_winnt:notice] [pid 9032:tid 564] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:05:07.290616 2018] [core:notice] [pid 9032:tid 564] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:05:07.293613 2018] [mpm_winnt:notice] [pid 9032:tid 564] AH00418: Parent: Created child process 7280
+Apache server interrupted...
+018] [ssl:warn] [pid 7280:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:05:07.732757 2018] [ssl:warn] [pid 7280:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:05:07.807802 2018] [mpm_winnt:notice] [pid 7280:tid 592] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:06:10.341197 2018] [mpm_winnt:notice] [pid 9032:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jun 29 01:06:12.343255 2018] [mpm_winnt:notice] [pid 7280:tid 592] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:06:12.396289 2018] [mpm_winnt:notice] [pid 9032:tid 564] AH00430: Parent: Child process 7280 exited successfully.
+[Fri Jun 29 01:06:35.513423 2018] [ssl:warn] [pid 8952:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:06:35.597483 2018] [ssl:warn] [pid 8952:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:06:35.598483 2018] [mpm_winnt:notice] [pid 8952:tid 596] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:06:35.598483 2018] [mpm_winnt:notice] [pid 8952:tid 596] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:06:35.598483 2018] [core:notice] [pid 8952:tid 596] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:06:35.602486 2018] [mpm_winnt:notice] [pid 8952:tid 596] AH00418: Parent: Created child process 2268
+Apache server interrupted...
+018] [ssl:warn] [pid 2268:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:06:36.046783 2018] [ssl:warn] [pid 2268:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:06:36.112820 2018] [mpm_winnt:notice] [pid 2268:tid 564] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:06:37.921041 2018] [wsgi:error] [pid 2268:tid 1328] Using TensorFlow backend.\r
+[Fri Jun 29 01:09:19.517314 2018] [mpm_winnt:notice] [pid 8952:tid 596] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jun 29 01:09:21.787419 2018] [mpm_winnt:notice] [pid 8952:tid 596] AH00430: Parent: Child process 2268 exited successfully.
+Apache server interrupted...
+[Fri Jun 29 01:09:23.432882 2018] [ssl:warn] [pid 8840:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:09:23.542270 2018] [ssl:warn] [pid 8840:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:09:23.542270 2018] [mpm_winnt:notice] [pid 8840:tid 564] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:09:23.542270 2018] [mpm_winnt:notice] [pid 8840:tid 564] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:09:23.542270 2018] [core:notice] [pid 8840:tid 564] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:09:23.542270 2018] [mpm_winnt:notice] [pid 8840:tid 564] AH00418: Parent: Created child process 10440
+Apache server interrupted...
+018] [ssl:warn] [pid 10440:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:09:23.943374 2018] [ssl:warn] [pid 10440:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:09:23.990254 2018] [mpm_winnt:notice] [pid 10440:tid 604] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:09:41.810527 2018] [wsgi:error] [pid 10440:tid 1264] Using TensorFlow backend.\r
+[Fri Jun 29 01:10:55.272974 2018] [mpm_winnt:notice] [pid 8840:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+018] [mpm_winnt:notice] [pid 10440:tid 604] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:10:57.568537 2018] [mpm_winnt:notice] [pid 8840:tid 564] AH00430: Parent: Child process 10440 exited successfully.
+[Fri Jun 29 01:10:59.724796 2018] [ssl:warn] [pid 4264:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:10:59.818556 2018] [ssl:warn] [pid 4264:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:10:59.818556 2018] [mpm_winnt:notice] [pid 4264:tid 564] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:10:59.818556 2018] [mpm_winnt:notice] [pid 4264:tid 564] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:10:59.818556 2018] [core:notice] [pid 4264:tid 564] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:10:59.818556 2018] [mpm_winnt:notice] [pid 4264:tid 564] AH00418: Parent: Created child process 744
+Apache server interrupted...
+018] [ssl:warn] [pid 744:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:11:00.224954 2018] [ssl:warn] [pid 744:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:11:00.271826 2018] [mpm_winnt:notice] [pid 744:tid 556] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:11:13.959818 2018] [wsgi:error] [pid 744:tid 1328] Using TensorFlow backend.\r
+[Fri Jun 29 01:11:40.090931 2018] [wsgi:error] [pid 744:tid 1312] [client ::1:4946] nmsl\r
+[Fri Jun 29 01:13:55.694008 2018] [wsgi:error] [pid 744:tid 1328] [client ::1:4979] nmsl\r
+[Fri Jun 29 01:14:06.552873 2018] [mpm_winnt:notice] [pid 4264:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 29 01:14:08.574147 2018] [mpm_winnt:notice] [pid 744:tid 556] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:14:08.855405 2018] [mpm_winnt:notice] [pid 4264:tid 564] AH00430: Parent: Child process 744 exited successfully.
+[Fri Jun 29 01:14:11.750360 2018] [ssl:warn] [pid 10660:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:14:11.859747 2018] [ssl:warn] [pid 10660:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:14:11.859747 2018] [mpm_winnt:notice] [pid 10660:tid 576] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:14:11.859747 2018] [mpm_winnt:notice] [pid 10660:tid 576] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:14:11.859747 2018] [core:notice] [pid 10660:tid 576] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:14:11.859747 2018] [mpm_winnt:notice] [pid 10660:tid 576] AH00418: Parent: Created child process 1860
+Apache server interrupted...
+018] [ssl:warn] [pid 1860:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:14:12.272145 2018] [ssl:warn] [pid 1860:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:14:12.319022 2018] [mpm_winnt:notice] [pid 1860:tid 588] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:14:48.622163 2018] [wsgi:error] [pid 1860:tid 1264] Using TensorFlow backend.\r
+[Fri Jun 29 01:17:45.663179 2018] [wsgi:error] [pid 1860:tid 1260] [client ::1:5212] nmsl\r
+[Fri Jun 29 01:21:34.744908 2018] [wsgi:error] [pid 1860:tid 1256] [client ::1:5281] nmsl\r
+[Fri Jun 29 01:21:40.120900 2018] [mpm_winnt:notice] [pid 10660:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Fri Jun 29 01:21:42.123234 2018] [mpm_winnt:notice] [pid 1860:tid 588] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:21:42.384404 2018] [mpm_winnt:notice] [pid 10660:tid 576] AH00430: Parent: Child process 1860 exited successfully.
+[Fri Jun 29 01:23:20.916069 2018] [ssl:warn] [pid 5588:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:23:23.396721 2018] [ssl:warn] [pid 5588:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:23:23.397722 2018] [mpm_winnt:notice] [pid 5588:tid 548] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:23:23.397722 2018] [mpm_winnt:notice] [pid 5588:tid 548] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:23:23.397722 2018] [core:notice] [pid 5588:tid 548] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:23:23.401721 2018] [mpm_winnt:notice] [pid 5588:tid 548] AH00418: Parent: Created child process 10056
+Apache server interrupted...
+018] [ssl:warn] [pid 10056:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:23:23.833028 2018] [ssl:warn] [pid 10056:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:23:23.895068 2018] [mpm_winnt:notice] [pid 10056:tid 580] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:23:43.914481 2018] [wsgi:error] [pid 10056:tid 1264] Using TensorFlow backend.\r
+[Fri Jun 29 01:26:08.476150 2018] [mpm_winnt:notice] [pid 5588:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Fri Jun 29 01:26:10.499462 2018] [mpm_winnt:notice] [pid 10056:tid 580] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:26:10.749455 2018] [mpm_winnt:notice] [pid 5588:tid 548] AH00430: Parent: Child process 10056 exited successfully.
+[Fri Jun 29 01:26:46.134826 2018] [ssl:warn] [pid 10468:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:26:46.587979 2018] [ssl:warn] [pid 10468:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:26:46.587979 2018] [mpm_winnt:notice] [pid 10468:tid 564] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:26:46.587979 2018] [mpm_winnt:notice] [pid 10468:tid 564] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:26:46.587979 2018] [core:notice] [pid 10468:tid 564] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:26:46.587979 2018] [mpm_winnt:notice] [pid 10468:tid 564] AH00418: Parent: Created child process 2864
+Apache server interrupted...
+018] [ssl:warn] [pid 2864:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:26:46.978740 2018] [ssl:warn] [pid 2864:tid 596] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:26:47.025621 2018] [mpm_winnt:notice] [pid 2864:tid 596] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:27:28.371763 2018] [wsgi:error] [pid 2864:tid 1304] Using TensorFlow backend.\r
+[Fri Jun 29 01:29:09.093230 2018] [mpm_winnt:notice] [pid 10468:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 29 01:29:11.115983 2018] [mpm_winnt:notice] [pid 2864:tid 596] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:29:11.365974 2018] [mpm_winnt:notice] [pid 10468:tid 564] AH00430: Parent: Child process 2864 exited successfully.
+[Fri Jun 29 01:29:13.086652 2018] [ssl:warn] [pid 9832:tid 544] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:29:13.180413 2018] [ssl:warn] [pid 9832:tid 544] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:29:13.180413 2018] [mpm_winnt:notice] [pid 9832:tid 544] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:29:13.180413 2018] [mpm_winnt:notice] [pid 9832:tid 544] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:29:13.180413 2018] [core:notice] [pid 9832:tid 544] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:29:13.180413 2018] [mpm_winnt:notice] [pid 9832:tid 544] AH00418: Parent: Created child process 240
+Apache server interrupted...
+018] [ssl:warn] [pid 240:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:29:13.602309 2018] [ssl:warn] [pid 240:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:29:13.649182 2018] [mpm_winnt:notice] [pid 240:tid 556] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:29:36.365988 2018] [wsgi:error] [pid 240:tid 1292] Using TensorFlow backend.\r
+[Fri Jun 29 01:29:37.850719 2018] [wsgi:error] [pid 240:tid 1292] =============start loading models=============\r
+2018-06-29 01:29:44.458480: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Fri Jun 29 01:29:49.205840 2018] [wsgi:error] [pid 240:tid 1292] =============finish loading models=============\r
+[Fri Jun 29 01:29:49.271883 2018] [wsgi:error] [pid 240:tid 1292] [client ::1:5444] =============start predicting=============\r
+[Fri Jun 29 01:30:02.279166 2018] [wsgi:error] [pid 240:tid 1276] [client ::1:5460] =============start predicting=============\r
+[Fri Jun 29 01:30:28.241510 2018] [mpm_winnt:notice] [pid 9832:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+d.
+[Fri Jun 29 01:30:31.208847 2018] [mpm_winnt:notice] [pid 9832:tid 544] AH00430: Parent: Child process 240 exited successfully.
+[Fri Jun 29 01:34:51.089495 2018] [ssl:warn] [pid 2196:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:34:51.183255 2018] [ssl:warn] [pid 2196:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:34:51.183255 2018] [mpm_winnt:notice] [pid 2196:tid 548] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:34:51.183255 2018] [mpm_winnt:notice] [pid 2196:tid 548] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:34:51.183255 2018] [core:notice] [pid 2196:tid 548] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:34:51.183255 2018] [mpm_winnt:notice] [pid 2196:tid 548] AH00418: Parent: Created child process 4584
+Apache server interrupted...
+018] [ssl:warn] [pid 4584:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:34:51.605144 2018] [ssl:warn] [pid 4584:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:34:51.667649 2018] [mpm_winnt:notice] [pid 4584:tid 576] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:35:46.678584 2018] [mpm_winnt:notice] [pid 2196:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Fri Jun 29 01:35:48.693618 2018] [mpm_winnt:notice] [pid 4584:tid 576] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:35:48.740496 2018] [mpm_winnt:notice] [pid 2196:tid 548] AH00430: Parent: Child process 4584 exited successfully.
+[Fri Jun 29 01:35:50.537277 2018] [ssl:warn] [pid 3352:tid 792] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:35:50.631037 2018] [ssl:warn] [pid 3352:tid 792] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:35:50.631037 2018] [mpm_winnt:notice] [pid 3352:tid 792] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:35:50.631037 2018] [mpm_winnt:notice] [pid 3352:tid 792] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:35:50.631037 2018] [core:notice] [pid 3352:tid 792] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:35:50.631037 2018] [mpm_winnt:notice] [pid 3352:tid 792] AH00418: Parent: Created child process 4612
+Apache server interrupted...
+018] [ssl:warn] [pid 4612:tid 796] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:35:51.010934 2018] [ssl:warn] [pid 4612:tid 796] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:35:51.057811 2018] [mpm_winnt:notice] [pid 4612:tid 796] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:36:52.019204 2018] [wsgi:error] [pid 4612:tid 1404] Using TensorFlow backend.\r
+[Fri Jun 29 01:36:53.650288 2018] [wsgi:error] [pid 4612:tid 1404] =============start loading models=============\r
+2018-06-29 01:37:00.665253: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Fri Jun 29 01:37:05.608960 2018] [wsgi:error] [pid 4612:tid 1404] =============finish loading models=============\r
+[Fri Jun 29 01:37:12.299281 2018] [mpm_winnt:notice] [pid 3352:tid 792] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+0x00000159F35A0DD8>>
+Traceback (most recent call last):
+  File "d:\anaconda3\lib\site-packages\tensorflow\python\client\session.py", line 692, in __del__
+NameError: name 'Exception' is not defined
+[Fri Jun 29 01:37:15.331409 2018] [mpm_winnt:notice] [pid 3352:tid 792] AH00430: Parent: Child process 4612 exited successfully.
+[Fri Jun 29 01:37:17.192148 2018] [ssl:warn] [pid 2932:tid 780] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:37:17.240739 2018] [ssl:warn] [pid 2932:tid 780] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:37:17.240739 2018] [mpm_winnt:notice] [pid 2932:tid 780] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:37:17.240739 2018] [mpm_winnt:notice] [pid 2932:tid 780] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:37:17.240739 2018] [core:notice] [pid 2932:tid 780] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:37:17.240739 2018] [mpm_winnt:notice] [pid 2932:tid 780] AH00418: Parent: Created child process 11688
+Apache server interrupted...
+018] [ssl:warn] [pid 11688:tid 812] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:37:17.641207 2018] [ssl:warn] [pid 11688:tid 812] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:37:17.721321 2018] [mpm_winnt:notice] [pid 11688:tid 812] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:39:12.622655 2018] [mpm_winnt:notice] [pid 2932:tid 780] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 29 01:39:14.645212 2018] [mpm_winnt:notice] [pid 11688:tid 812] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:39:14.714560 2018] [mpm_winnt:notice] [pid 2932:tid 780] AH00430: Parent: Child process 11688 exited successfully.
+[Fri Jun 29 01:39:15.855938 2018] [ssl:warn] [pid 12984:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:39:15.956980 2018] [ssl:warn] [pid 12984:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:39:15.956980 2018] [mpm_winnt:notice] [pid 12984:tid 548] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:39:15.956980 2018] [mpm_winnt:notice] [pid 12984:tid 548] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:39:15.956980 2018] [core:notice] [pid 12984:tid 548] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:39:15.972608 2018] [mpm_winnt:notice] [pid 12984:tid 548] AH00418: Parent: Created child process 5032
+Apache server interrupted...
+018] [ssl:warn] [pid 5032:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:39:16.378893 2018] [ssl:warn] [pid 5032:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:39:16.425751 2018] [mpm_winnt:notice] [pid 5032:tid 556] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:41:08.060646 2018] [mpm_winnt:notice] [pid 12984:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 29 01:41:10.076287 2018] [mpm_winnt:notice] [pid 5032:tid 556] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 01:41:10.107541 2018] [mpm_winnt:notice] [pid 12984:tid 548] AH00430: Parent: Child process 5032 exited successfully.
+[Fri Jun 29 01:41:19.828013 2018] [ssl:warn] [pid 6212:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:41:19.926303 2018] [ssl:warn] [pid 6212:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:41:19.927303 2018] [mpm_winnt:notice] [pid 6212:tid 592] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:41:19.927303 2018] [mpm_winnt:notice] [pid 6212:tid 592] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:41:19.927303 2018] [core:notice] [pid 6212:tid 592] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:41:19.931306 2018] [mpm_winnt:notice] [pid 6212:tid 592] AH00418: Parent: Created child process 9612
+Apache server interrupted...
+018] [ssl:warn] [pid 9612:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:41:20.365124 2018] [ssl:warn] [pid 9612:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:41:20.408355 2018] [mpm_winnt:notice] [pid 9612:tid 592] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:41:36.573614 2018] [wsgi:error] [pid 9612:tid 1264] Using TensorFlow backend.\r
+[Fri Jun 29 01:41:38.216708 2018] [wsgi:error] [pid 9612:tid 1264] =============start loading models=============\r
+2018-06-29 01:41:45.137797: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Fri Jun 29 01:41:49.904430 2018] [wsgi:error] [pid 9612:tid 1264] =============finish loading models=============\r
+[Fri Jun 29 01:42:30.543163 2018] [wsgi:error] [pid 9612:tid 1264] [client ::1:6060] =============start predicting=============\r
+[Fri Jun 29 01:43:00.477196 2018] [mpm_winnt:notice] [pid 6212:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Fri Jun 29 01:43:02.479528 2018] [mpm_winnt:notice] [pid 9612:tid 592] AH00364: Child: All worker threads have exited.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x000001FC6DAE0208>>
+Traceback (most recent call last):
+  File "d:\anaconda3\lib\site-packages\tensorflow\python\client\session.py", line 692, in __del__
+NameError: name 'Exception' is not defined
+[Fri Jun 29 01:43:03.302072 2018] [mpm_winnt:notice] [pid 6212:tid 592] AH00430: Parent: Child process 9612 exited successfully.
+[Fri Jun 29 01:43:23.974397 2018] [ssl:warn] [pid 12044:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:43:24.065462 2018] [ssl:warn] [pid 12044:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:43:24.066462 2018] [mpm_winnt:notice] [pid 12044:tid 556] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:43:24.066462 2018] [mpm_winnt:notice] [pid 12044:tid 556] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:43:24.066462 2018] [core:notice] [pid 12044:tid 556] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:43:24.070462 2018] [mpm_winnt:notice] [pid 12044:tid 556] AH00418: Parent: Created child process 11056
+Apache server shutdown initiated...
+sl:warn] [pid 11056:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:43:24.527771 2018] [ssl:warn] [pid 11056:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:43:24.590808 2018] [mpm_winnt:notice] [pid 11056:tid 572] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:45:02.208009 2018] [wsgi:error] [pid 11056:tid 1296] Using TensorFlow backend.\r
+[Fri Jun 29 01:45:03.835091 2018] [wsgi:error] [pid 11056:tid 1296] =============start loading models=============\r
+2018-06-29 01:45:11.897032: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Fri Jun 29 01:45:16.723166 2018] [wsgi:error] [pid 11056:tid 1296] =============finish loading models=============\r
+[Fri Jun 29 01:45:31.248083 2018] [wsgi:error] [pid 11056:tid 1272] [client ::1:6270] =============start predicting=============\r
+[Fri Jun 29 01:45:35.201707 2018] [wsgi:error] [pid 11056:tid 1264] [client ::1:6272] =============start predicting=============\r
+[Fri Jun 29 01:45:42.496555 2018] [wsgi:error] [pid 11056:tid 1264] [client ::1:6274] =============start predicting=============\r
+[Fri Jun 29 01:45:48.475883 2018] [mpm_winnt:notice] [pid 12044:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 29 01:45:58.222455 2018] [ssl:warn] [pid 10552:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:45:58.298507 2018] [core:warn] [pid 10552:tid 556] AH00098: pid file D:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jun 29 01:45:58.305512 2018] [ssl:warn] [pid 10552:tid 556] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:45:58.306513 2018] [mpm_winnt:notice] [pid 10552:tid 556] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:45:58.306513 2018] [mpm_winnt:notice] [pid 10552:tid 556] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:45:58.306513 2018] [core:notice] [pid 10552:tid 556] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:45:58.308512 2018] [mpm_winnt:notice] [pid 10552:tid 556] AH00418: Parent: Created child process 5364
+Apache server interrupted...
+018] [ssl:warn] [pid 5364:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:45:58.725791 2018] [ssl:warn] [pid 5364:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:45:58.774822 2018] [mpm_winnt:notice] [pid 5364:tid 564] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:46:14.737737 2018] [wsgi:error] [pid 5364:tid 1328] Using TensorFlow backend.\r
+[Fri Jun 29 01:46:16.338800 2018] [wsgi:error] [pid 5364:tid 1328] =============start loading models=============\r
+2018-06-29 01:46:23.029719: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Fri Jun 29 01:46:27.756387 2018] [wsgi:error] [pid 5364:tid 1328] =============finish loading models=============\r
+[Fri Jun 29 01:46:27.822430 2018] [wsgi:error] [pid 5364:tid 1328] [client ::1:6279] =============start predicting=============\r
+[Fri Jun 29 01:46:28.427833 2018] [mpm_winnt:notice] [pid 11056:tid 572] AH00364: Child: All worker threads have exited.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x0000015753CC0E10>>
+Traceback (most recent call last):
+  File "d:\anaconda3\lib\site-packages\tensorflow\python\client\session.py", line 692, in __del__
+NameError: name 'Exception' is not defined
+[Fri Jun 29 01:46:44.749973 2018] [mpm_winnt:notice] [pid 10552:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+ed.
+[Fri Jun 29 01:46:47.743961 2018] [mpm_winnt:notice] [pid 10552:tid 556] AH00430: Parent: Child process 5364 exited successfully.
+[Fri Jun 29 01:48:56.852234 2018] [ssl:warn] [pid 8680:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:48:59.374917 2018] [ssl:warn] [pid 8680:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:48:59.375918 2018] [mpm_winnt:notice] [pid 8680:tid 564] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:48:59.375918 2018] [mpm_winnt:notice] [pid 8680:tid 564] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:48:59.375918 2018] [core:notice] [pid 8680:tid 564] AH00094: Command line: 'httpd -d D:/Apache24'
+[Fri Jun 29 01:48:59.378917 2018] [mpm_winnt:notice] [pid 8680:tid 564] AH00418: Parent: Created child process 7424
+Apache server interrupted...
+018] [ssl:warn] [pid 7424:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:48:59.791188 2018] [ssl:warn] [pid 7424:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:48:59.863235 2018] [mpm_winnt:notice] [pid 7424:tid 588] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:49:10.095259 2018] [wsgi:error] [pid 7424:tid 1268] Using TensorFlow backend.\r
+[Fri Jun 29 01:49:11.709331 2018] [wsgi:error] [pid 7424:tid 1268] =============start loading models=============\r
+2018-06-29 01:49:18.782968: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Fri Jun 29 01:49:23.523491 2018] [wsgi:error] [pid 7424:tid 1268] =============finish loading models=============\r
+[Fri Jun 29 01:49:23.590535 2018] [wsgi:error] [pid 7424:tid 1268] [client ::1:6336] =============start predicting=============\r
+[Fri Jun 29 01:49:34.188457 2018] [wsgi:error] [pid 7424:tid 1268] [client ::1:6338] =============start predicting=============\r
+[Fri Jun 29 01:51:33.191106 2018] [wsgi:error] [pid 7424:tid 1268] [client ::1:6450] =============start predicting=============\r
+[Fri Jun 29 01:53:16.755545 2018] [mpm_winnt:notice] [pid 8680:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 29 01:53:18.757873 2018] [mpm_winnt:notice] [pid 7424:tid 588] AH00364: Child: All worker threads have exited.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x000001A3E51DEEF0>>
+Traceback (most recent call last):
+  File "d:\anaconda3\lib\site-packages\tensorflow\python\client\session.py", line 692, in __del__
+NameError: name 'Exception' is not defined
+[Fri Jun 29 01:53:19.993694 2018] [mpm_winnt:notice] [pid 8680:tid 564] AH00430: Parent: Child process 7424 exited successfully.
+[Fri Jun 29 01:53:33.634112 2018] [ssl:warn] [pid 13372:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:53:33.722314 2018] [ssl:warn] [pid 13372:tid 604] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:53:33.723315 2018] [mpm_winnt:notice] [pid 13372:tid 604] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 01:53:33.723315 2018] [mpm_winnt:notice] [pid 13372:tid 604] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 01:53:33.723315 2018] [core:notice] [pid 13372:tid 604] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 01:53:33.730313 2018] [mpm_winnt:notice] [pid 13372:tid 604] AH00418: Parent: Created child process 13520
+Apache server interrupted...
+018] [ssl:warn] [pid 13520:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:53:34.219783 2018] [ssl:warn] [pid 13520:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 01:53:34.268815 2018] [mpm_winnt:notice] [pid 13520:tid 576] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 01:53:47.340501 2018] [wsgi:error] [pid 13520:tid 1256] Using TensorFlow backend.\r
+[Fri Jun 29 01:53:48.893533 2018] [wsgi:error] [pid 13520:tid 1256] =============start loading models=============\r
+2018-06-29 01:53:56.026194: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Fri Jun 29 01:54:01.028654 2018] [wsgi:error] [pid 13520:tid 1256] =============finish loading models=============\r
+[Fri Jun 29 01:54:01.093696 2018] [wsgi:error] [pid 13520:tid 1256] [client ::1:6720] =============start predicting=============\r
+[Fri Jun 29 01:55:00.144084 2018] [wsgi:error] [pid 13520:tid 1256] [client ::1:6961] =============start predicting=============\r
+[Fri Jun 29 02:04:33.378941 2018] [mpm_winnt:notice] [pid 13372:tid 604] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server shutdown initiated...
+[Fri Jun 29 02:04:35.381410 2018] [mpm_winnt:notice] [pid 13520:tid 576] AH00364: Child: All worker threads have exited.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x0000019DD76A0198>>
+Traceback (most recent call last):
+  File "d:\anaconda3\lib\site-packages\tensorflow\python\client\session.py", line 692, in __del__
+NameError: name 'Exception' is not defined
+[Fri Jun 29 02:04:36.429105 2018] [mpm_winnt:notice] [pid 13372:tid 604] AH00430: Parent: Child process 13520 exited successfully.
+[Fri Jun 29 02:18:29.427962 2018] [ssl:warn] [pid 11832:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 02:18:29.537340 2018] [ssl:warn] [pid 11832:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 02:18:29.537340 2018] [mpm_winnt:notice] [pid 11832:tid 564] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 02:18:29.537340 2018] [mpm_winnt:notice] [pid 11832:tid 564] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 02:18:29.537340 2018] [core:notice] [pid 11832:tid 564] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 02:18:29.537340 2018] [mpm_winnt:notice] [pid 11832:tid 564] AH00418: Parent: Created child process 11624
+Apache server interrupted...
+018] [ssl:warn] [pid 11624:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 02:18:29.990488 2018] [ssl:warn] [pid 11624:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 02:18:32.084345 2018] [mpm_winnt:notice] [pid 11624:tid 580] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 02:19:01.289392 2018] [wsgi:error] [pid 11624:tid 1264] Using TensorFlow backend.\r
+[Fri Jun 29 02:19:21.987264 2018] [wsgi:error] [pid 11624:tid 1264] =============start loading models=============\r
+2018-06-29 02:19:29.978913: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Fri Jun 29 02:19:35.376083 2018] [wsgi:error] [pid 11624:tid 1264] =============finish loading models=============\r
+[Fri Jun 29 02:24:12.810577 2018] [wsgi:error] [pid 11624:tid 1252] [client ::1:2547] =============start predicting=============\r
+[Fri Jun 29 02:24:15.896097 2018] [wsgi:error] [pid 11624:tid 1252] [client ::1:2565] =============start predicting=============\r
+[Fri Jun 29 02:24:30.609708 2018] [mpm_winnt:notice] [pid 11832:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+ted.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x0000022270F90198>>
+Traceback (most recent call last):
+  File "d:\anaconda3\lib\site-packages\tensorflow\python\client\session.py", line 692, in __del__
+NameError: name 'Exception' is not defined
+[Fri Jun 29 02:24:33.488410 2018] [mpm_winnt:notice] [pid 11832:tid 564] AH00430: Parent: Child process 11624 exited successfully.
+[Fri Jun 29 02:24:40.177164 2018] [ssl:warn] [pid 2204:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 02:24:40.270923 2018] [ssl:warn] [pid 2204:tid 576] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 02:24:40.270923 2018] [mpm_winnt:notice] [pid 2204:tid 576] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Fri Jun 29 02:24:40.270923 2018] [mpm_winnt:notice] [pid 2204:tid 576] AH00456: Server built: Mar 17 2018 21:05:15
+[Fri Jun 29 02:24:40.270923 2018] [core:notice] [pid 2204:tid 576] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Fri Jun 29 02:24:40.270923 2018] [mpm_winnt:notice] [pid 2204:tid 576] AH00418: Parent: Created child process 12188
+Apache server shutdown initiated...
+sl:warn] [pid 12188:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 02:24:40.718287 2018] [ssl:warn] [pid 12188:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jun 29 02:24:40.765159 2018] [mpm_winnt:notice] [pid 12188:tid 572] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 29 02:24:58.716169 2018] [wsgi:error] [pid 12188:tid 164] Using TensorFlow backend.\r
+[Fri Jun 29 02:25:00.294373 2018] [wsgi:error] [pid 12188:tid 164] =============start loading models=============\r
+2018-06-29 02:25:06.959328: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Fri Jun 29 02:25:11.110034 2018] [wsgi:error] [pid 12188:tid 164] =============finish loading models=============\r
+[Fri Jun 29 02:25:11.172539 2018] [wsgi:error] [pid 12188:tid 164] [client ::1:2579] =============start predicting=============\r
+[Fri Jun 29 02:26:07.858075 2018] [mpm_winnt:notice] [pid 2204:tid 576] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 29 02:26:09.882744 2018] [mpm_winnt:notice] [pid 12188:tid 572] AH00364: Child: All worker threads have exited.
+[Fri Jun 29 02:26:10.716154 2018] [mpm_winnt:notice] [pid 2204:tid 576] AH00430: Parent: Child process 12188 exited successfully.
+[Mon Jul 02 14:47:30.756822 2018] [ssl:warn] [pid 13680:tid 584] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:47:30.850577 2018] [ssl:warn] [pid 13680:tid 584] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:47:30.850577 2018] [mpm_winnt:notice] [pid 13680:tid 584] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Mon Jul 02 14:47:30.850577 2018] [mpm_winnt:notice] [pid 13680:tid 584] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 14:47:30.850577 2018] [core:notice] [pid 13680:tid 584] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Mon Jul 02 14:47:30.850577 2018] [mpm_winnt:notice] [pid 13680:tid 584] AH00418: Parent: Created child process 7268
+Apache server shutdown initiated...
+sl:warn] [pid 7268:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:47:31.225595 2018] [ssl:warn] [pid 7268:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:47:31.897504 2018] [mpm_winnt:notice] [pid 7268:tid 572] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 14:47:55.468402 2018] [wsgi:error] [pid 7268:tid 1244] Using TensorFlow backend.\r
+[Mon Jul 02 14:48:13.339078 2018] [wsgi:error] [pid 7268:tid 1244] =============start loading models=============\r
+2018-07-02 14:48:21.463074: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Mon Jul 02 14:48:27.071543 2018] [wsgi:error] [pid 7268:tid 1244] =============finish loading models=============\r
+[Mon Jul 02 14:48:54.461662 2018] [wsgi:error] [pid 7268:tid 1232] [client ::1:4942] =============start predicting=============\r
+[Mon Jul 02 14:49:01.156478 2018] [mpm_winnt:notice] [pid 13680:tid 584] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 14:49:03.157431 2018] [mpm_winnt:notice] [pid 7268:tid 572] AH00364: Child: All worker threads have exited.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x0000022ADEB91198>>
+Traceback (most recent call last):
+  File "d:\anaconda3\lib\site-packages\tensorflow\python\client\session.py", line 692, in __del__
+NameError: name 'Exception' is not defined
+[Mon Jul 02 14:49:04.069063 2018] [mpm_winnt:notice] [pid 13680:tid 584] AH00430: Parent: Child process 7268 exited successfully.
+[Mon Jul 02 14:49:16.837267 2018] [ssl:warn] [pid 13364:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:49:16.928328 2018] [ssl:warn] [pid 13364:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:49:16.929330 2018] [mpm_winnt:notice] [pid 13364:tid 568] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Mon Jul 02 14:49:16.929330 2018] [mpm_winnt:notice] [pid 13364:tid 568] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 14:49:16.929330 2018] [core:notice] [pid 13364:tid 568] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Mon Jul 02 14:49:16.937338 2018] [mpm_winnt:notice] [pid 13364:tid 568] AH00418: Parent: Created child process 12504
+Apache server shutdown initiated...
+sl:warn] [pid 12504:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:49:17.435694 2018] [ssl:warn] [pid 12504:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:49:17.488731 2018] [mpm_winnt:notice] [pid 12504:tid 568] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 14:49:55.351674 2018] [wsgi:error] [pid 12504:tid 1256] Using TensorFlow backend.\r
+[Mon Jul 02 14:49:56.925720 2018] [wsgi:error] [pid 12504:tid 1256] =============start loading models=============\r
+2018-07-02 14:50:03.822348: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Mon Jul 02 14:50:08.018805 2018] [wsgi:error] [pid 12504:tid 1256] =============finish loading models=============\r
+[Mon Jul 02 14:51:36.439548 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5197] =============start predicting=============\r
+[Mon Jul 02 14:51:41.627502 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5201] =============start predicting=============\r
+[Mon Jul 02 14:52:06.830442 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5253] =============start predicting=============\r
+[Mon Jul 02 14:52:07.712988 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5256] =============start predicting=============\r
+[Mon Jul 02 14:52:09.252633 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5258] =============start predicting=============\r
+[Mon Jul 02 14:52:10.128216 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5260] =============start predicting=============\r
+[Mon Jul 02 14:52:11.008996 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5262] =============start predicting=============\r
+[Mon Jul 02 14:52:11.894032 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5264] =============start predicting=============\r
+[Mon Jul 02 14:52:12.767763 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5266] =============start predicting=============\r
+[Mon Jul 02 14:52:13.651652 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5268] =============start predicting=============\r
+[Mon Jul 02 14:52:14.534949 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5270] =============start predicting=============\r
+[Mon Jul 02 14:52:15.426727 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5272] =============start predicting=============\r
+[Mon Jul 02 14:52:16.299952 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5274] =============start predicting=============\r
+[Mon Jul 02 14:52:17.170297 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5276] =============start predicting=============\r
+[Mon Jul 02 14:52:18.063426 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5278] =============start predicting=============\r
+[Mon Jul 02 14:52:21.910074 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5280] =============start predicting=============\r
+[Mon Jul 02 14:52:22.811951 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5284] =============start predicting=============\r
+[Mon Jul 02 14:52:23.691671 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5286] =============start predicting=============\r
+[Mon Jul 02 14:52:24.559371 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5289] =============start predicting=============\r
+[Mon Jul 02 14:52:25.461822 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5295] =============start predicting=============\r
+[Mon Jul 02 14:52:26.330722 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5297] =============start predicting=============\r
+[Mon Jul 02 14:52:27.201246 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5299] =============start predicting=============\r
+[Mon Jul 02 14:52:28.064909 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5301] =============start predicting=============\r
+[Mon Jul 02 14:52:28.942262 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5303] =============start predicting=============\r
+[Mon Jul 02 14:52:29.816180 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5305] =============start predicting=============\r
+[Mon Jul 02 14:52:30.687591 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5307] =============start predicting=============\r
+[Mon Jul 02 14:52:31.571670 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5309] =============start predicting=============\r
+[Mon Jul 02 14:52:32.447568 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5311] =============start predicting=============\r
+[Mon Jul 02 14:52:33.314647 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5317] =============start predicting=============\r
+[Mon Jul 02 14:52:34.187416 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5319] =============start predicting=============\r
+[Mon Jul 02 14:52:35.054334 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5324] =============start predicting=============\r
+[Mon Jul 02 14:52:35.930215 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5326] =============start predicting=============\r
+[Mon Jul 02 14:52:36.814799 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5328] =============start predicting=============\r
+[Mon Jul 02 14:52:37.671340 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5331] =============start predicting=============\r
+[Mon Jul 02 14:52:38.539697 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5333] =============start predicting=============\r
+[Mon Jul 02 14:52:39.422048 2018] [wsgi:error] [pid 12504:tid 1256] [client ::1:5335] =============start predicting=============\r
+[Mon Jul 02 14:57:28.927028 2018] [mpm_winnt:notice] [pid 13364:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 14:57:32.449034 2018] [mpm_winnt:notice] [pid 12504:tid 568] AH00364: Child: All worker threads have exited.
+[Mon Jul 02 14:57:33.333148 2018] [mpm_winnt:notice] [pid 13364:tid 568] AH00430: Parent: Child process 12504 exited successfully.
+[Mon Jul 02 14:57:57.724498 2018] [ssl:warn] [pid 320:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:57:57.802626 2018] [ssl:warn] [pid 320:tid 580] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:57:57.802626 2018] [mpm_winnt:notice] [pid 320:tid 580] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Mon Jul 02 14:57:57.802626 2018] [mpm_winnt:notice] [pid 320:tid 580] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 14:57:57.802626 2018] [core:notice] [pid 320:tid 580] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Mon Jul 02 14:57:57.802626 2018] [mpm_winnt:notice] [pid 320:tid 580] AH00418: Parent: Created child process 6500
+Apache server shutdown initiated...
+sl:warn] [pid 6500:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:57:58.208896 2018] [ssl:warn] [pid 6500:tid 588] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 14:57:58.255774 2018] [mpm_winnt:notice] [pid 6500:tid 588] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 15:03:27.520412 2018] [wsgi:error] [pid 6500:tid 1244] Using TensorFlow backend.\r
+[Mon Jul 02 15:03:29.486889 2018] [wsgi:error] [pid 6500:tid 1244] =============start loading models=============\r
+2018-07-02 15:03:36.987158: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Mon Jul 02 15:03:37.786700 2018] [mpm_winnt:notice] [pid 320:tid 580] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 15:03:41.727748 2018] [wsgi:error] [pid 6500:tid 1244] =============finish loading models=============\r
+[Mon Jul 02 15:03:41.824722 2018] [mpm_winnt:notice] [pid 6500:tid 588] AH00364: Child: All worker threads have exited.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x000001A87B102198>>
+Traceback (most recent call last):
+  File "d:\anaconda3\lib\site-packages\tensorflow\python\client\session.py", line 692, in __del__
+NameError: name 'Exception' is not defined
+[Mon Jul 02 15:04:00.323447 2018] [ssl:warn] [pid 5588:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:04:00.400501 2018] [core:warn] [pid 5588:tid 560] AH00098: pid file D:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jul 02 15:04:00.407503 2018] [ssl:warn] [pid 5588:tid 560] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:04:00.407503 2018] [mpm_winnt:notice] [pid 5588:tid 560] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Mon Jul 02 15:04:00.407503 2018] [mpm_winnt:notice] [pid 5588:tid 560] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 15:04:00.407503 2018] [core:notice] [pid 5588:tid 560] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Mon Jul 02 15:04:00.410507 2018] [mpm_winnt:notice] [pid 5588:tid 560] AH00418: Parent: Created child process 4552
+Apache server shutdown initiated...
+sl:warn] [pid 4552:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:04:00.871812 2018] [ssl:warn] [pid 4552:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:04:00.926848 2018] [mpm_winnt:notice] [pid 4552:tid 568] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 15:06:17.196096 2018] [wsgi:error] [pid 4552:tid 1276] Using TensorFlow backend.\r
+[Mon Jul 02 15:06:18.868207 2018] [wsgi:error] [pid 4552:tid 1276] =============start loading models=============\r
+2018-07-02 15:06:27.082486: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Mon Jul 02 15:06:31.569137 2018] [wsgi:error] [pid 4552:tid 1276] =============finish loading models=============\r
+[Mon Jul 02 15:06:35.649852 2018] [mpm_winnt:notice] [pid 5588:tid 560] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jul 02 15:06:37.651182 2018] [mpm_winnt:notice] [pid 4552:tid 568] AH00364: Child: All worker threads have exited.
+Exception ignored in: <bound method BaseSession.__del__ of <tensorflow.python.client.session.Session object at 0x000001B7F53E1160>>
+Traceback (most recent call last):
+  File "d:\anaconda3\lib\site-packages\tensorflow\python\client\session.py", line 692, in __del__
+NameError: name 'Exception' is not defined
+[Mon Jul 02 15:06:38.713888 2018] [mpm_winnt:notice] [pid 5588:tid 560] AH00430: Parent: Child process 4552 exited successfully.
+[Mon Jul 02 15:07:42.116211 2018] [ssl:warn] [pid 5852:tid 624] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:07:42.581117 2018] [ssl:warn] [pid 5852:tid 624] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:07:42.581117 2018] [mpm_winnt:notice] [pid 5852:tid 624] AH00455: Apache/2.4.33 (Win64) OpenSSL/1.1.0h mod_wsgi/4.5.24 Python/3.5 configured -- resuming normal operations
+[Mon Jul 02 15:07:42.581117 2018] [mpm_winnt:notice] [pid 5852:tid 624] AH00456: Server built: Mar 17 2018 21:05:15
+[Mon Jul 02 15:07:42.581117 2018] [core:notice] [pid 5852:tid 624] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Mon Jul 02 15:07:42.584119 2018] [mpm_winnt:notice] [pid 5852:tid 624] AH00418: Parent: Created child process 13796
+[Mon Jul 02 15:07:42.986387 2018] [ssl:warn] [pid 13796:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:07:43.025413 2018] [ssl:warn] [pid 13796:tid 572] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jul 02 15:07:43.077448 2018] [mpm_winnt:notice] [pid 13796:tid 572] AH00354: Child: Starting 64 worker threads.
+[Mon Jul 02 15:08:09.629041 2018] [wsgi:error] [pid 13796:tid 1256] Using TensorFlow backend.\r
+[Mon Jul 02 15:08:11.341179 2018] [wsgi:error] [pid 13796:tid 1256] =============start loading models=============\r
+2018-07-02 15:08:19.084551: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\35\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX
+[Mon Jul 02 15:08:23.804468 2018] [wsgi:error] [pid 13796:tid 1256] =============finish loading models=============\r
+[Mon Jul 02 15:08:44.146029 2018] [wsgi:error] [pid 13796:tid 1256] [client ::1:7017] =============start predicting=============\r
+[Mon Jul 02 15:09:32.176853 2018] [wsgi:error] [pid 13796:tid 1252] [client ::1:7057] =============start predicting=============\r
