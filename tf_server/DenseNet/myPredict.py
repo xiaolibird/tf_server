@@ -26,8 +26,8 @@ from skimage.transform import resize
 # BASE_WEIGHT_DIR = '/Users/xiaolibird/Desktop/simple-keras-rest-api/DenseNet/imagenet_models/densenet121_weights_tf.h5'
 
 # Windows DIR
-WEIGHT_DIR = "D:\\机器视觉系统\\Python\\tf_server\\DenseNet\\imagenet_models\\output0627_best_weights.h5"
-BASE_WEIGHT_DIR = "D:\\机器视觉系统\\Python\\tf_server\\DenseNet\\imagenet_models\\densenet121_weights_tf.h5"
+WEIGHT_DIR = ".\\DenseNet\\imagenet_models\\output0627_best_weights.h5"
+BASE_WEIGHT_DIR = ".\\DenseNet\\imagenet_models\\densenet121_weights_tf.h5"
 
 class MyDenseNet(object):
     """

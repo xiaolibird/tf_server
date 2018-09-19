@@ -10,11 +10,10 @@ from keras.layers.core import Activation
 import tensorflow as tf
 import keras.backend.tensorflow_backend as KTF
 
-from densenet121 import DenseNet
+from DenseNet.densenet121 import DenseNet
 from skimage.transform import resize
-from skimage import filters
-import skimage.morphology as sm
-import cv2 
+from skimage import io, transform, filters, measure, segmentation, morphology
+
 
 # config = tf.ConfigProto()
 # sess = tf.Session(config=config)
@@ -28,8 +27,8 @@ import cv2
 # BASE_WEIGHT_DIR = '/Users/xiaolibird/Desktop/simple-keras-rest-api/DenseNet/imagenet_models/densenet121_weights_tf.h5'
 
 # Windows DIR
-BASE_WEIGHT_DIR = 'imagenet_models/densenet121_weights_tf.h5'
-WEIGHT_DIR = '../output0627_best_weights.h5'
+WEIGHT_DIR = ".\\DenseNet\\imagenet_models\\output0627_best_weights.h5"
+BASE_WEIGHT_DIR = ".\\DenseNet\\imagenet_models\\densenet121_weights_tf.h5"
 
 class MyDenseNet(object):
     """
@@ -67,28 +66,32 @@ class MyDenseNet(object):
         print("=============finish loading models=============")
 
     def predict_one_image(self, img):
-		print("=============start predicting=============")
-		result = {}
-		
-		#1
-		r = img[:, :, 0]
-		thresh = filters.threshold_otsu(r)
-		ret, thresh_img = cv2.threshold(r, thresh, 255, cv2.THRESH_BINARY)
-		mor_img = sm.opening(thresh_img, sm.disk(15))
-		contours = cv2.findContours(mor_img, cv2.RETR_TREE, cv2.CHAIN_APPROX_NONE)
-		cnt = contours[0]
-		x, y, w, h = cv2.boundingRect(cnt)
-		img = img[y-100:y+h+100, x-300:x+w+50, :]
-		
+        
+        print("=============start predicting=============")
+        result = {}
+        #1
+        r = img[:, :, 0]
+        thresh = filters.threshold_otsu(r)
+        bw =morphology.opening(r> thresh, morphology.disk(10))
+        cleared = bw.copy()
+        segmentation.clear_border(cleared)
+        label_image =measure.label(cleared) 
+        regions = measure.regionprops(label_image)
+        for region in regions:
+            if region.area < 100:
+                continue
+
+            minr, minc, maxr, maxc = region.bbox
+			#print(minr, minc, maxr, maxc)
+
+        img = img[int(minr*0.8):int(maxr*1.1), int(minc*0.5):int(maxc*1.1)]
 		#2
 		#img = img[400:1150, 350:1600, :]
-		
-		img = resize(img, self.input_shape)
-		prediction = self.model.predict(img[np.newaxis, :], batch_size=1)
-		result['score'] = np.max(prediction)
-		result['class'] = self.class_names[np.argmax(prediction)]
-		
-		return result
+        img = resize(img, self.input_shape)
+        prediction = self.model.predict(img[np.newaxis, :], batch_size=1)
+        result['score'] = np.max(prediction)
+        result['class'] = self.class_names[np.argmax(prediction)]
+        return result
 
     def predict_a_batch(self, batch):
         pass
