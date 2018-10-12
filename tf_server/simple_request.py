@@ -8,7 +8,8 @@ import os
 # initialize the Keras REST API endpoint URL along with the input
 # image path
 KERAS_REST_API_URL = "http://localhost:5000/predictbyfilename"
-IMAGE_PATH = "D:\\tf_server\\imgs\\Pseudomonas.jpg"
+#All_of_Negative,Pseudomonas,Staphylococcus
+IMAGE_PATH = "./imgs/Staphylococcus.jpg"
 
 # load the input image and construct the payload for the request
 payload = {"path": IMAGE_PATH}
