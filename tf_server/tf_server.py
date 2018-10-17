@@ -2,7 +2,7 @@
 import numpy as np
 import flask
 from skimage.io import imread
-from DenseNet.myPredict import MyDenseNet
+from DenseNet.myPredict3 import MyDenseNet
 
 # initialize our Flask application and the Keras model
 app = flask.Flask(__name__)
@@ -32,7 +32,7 @@ def predict_by_filename():
             img = imread(path)
             res = model.predict_one_image(img)
             
-            data["predictions"] = [res["class"], float(res["score"])]
+            data["predictions"] = [res["class"], float(res["score"]),float(res["distribution_score"])]
             data["result"] = "Predited"
             # indicate that the request was a success
             data["success"] = True
